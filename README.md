@@ -58,7 +58,7 @@ I am a developer passionately engineering solutions, currently focused on enterp
 ### 📫 _Establish Connection_
 
 <p align="center">
-  <a href="https://linkedin.com/in/pedroaugustodev">
-    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=0d1117" alt="LinkedIn Button" />
+  <a href="https://linkedin.com/in/pedroaugustodev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
   </a>
 </p>
