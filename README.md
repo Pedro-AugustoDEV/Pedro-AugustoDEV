@@ -15,8 +15,7 @@ I am a developer passionately engineering solutions, currently focused on enterp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-AugustoDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas do Pedro" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-AugustoDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Pedro-AugustoDEV&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170"/>
 </p>
 
 ---
