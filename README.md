@@ -1,4 +1,4 @@
-# Hi, I'm Pedro! 👋 
+# Hi, I'm Pedro Augusto! 😎
 
 ### Full-Stack Developer | Computer Science Student
 
