@@ -15,7 +15,7 @@ I am a developer passionately engineering solutions, currently focused on enterp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-AugustoDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Estatísticas do Pedro" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-AugustoDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas do Pedro" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-AugustoDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" height="170"/>
 </p>
 
@@ -44,14 +44,6 @@ I am a developer passionately engineering solutions, currently focused on enterp
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **[Where To Go](https://github.com/Pedro-AugustoDEV/where-to-go)** | `React Native`, `TypeScript`, `Graphs` | A mobile application designed for discovering local routes and events using graph algorithms. |
-
----
-
-### 🕹️ _Activity Stream_
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pedro-AugustoDEV/Pedro-AugustoDEV/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
 
 ---
 
