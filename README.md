@@ -23,16 +23,11 @@ I am a developer passionately engineering solutions, currently focused on enterp
 
 ### 🛠️ _Technology Arsenal_
 
-**Back-end Core** <br>
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=005C84)
-
-**Front-end & Mobile** <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,ts,react,threejs,git,github&theme=dark&perline=9" alt="Tech Stack Icons" />
+  </a>
+</p>
 
 ---
 
@@ -64,6 +59,6 @@ I am a developer passionately engineering solutions, currently focused on enterp
 
 <p align="center">
   <a href="https://linkedin.com/in/pedroaugustodev">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=0d1117" alt="LinkedIn Button" />
   </a>
 </p>
