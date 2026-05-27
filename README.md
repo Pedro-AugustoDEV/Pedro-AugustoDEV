@@ -59,6 +59,6 @@ I am a developer passionately engineering solutions, currently focused on enterp
 
 <p align="center">
   <a href="https://linkedin.com/in/pedroaugustodev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn Icon" />
   </a>
 </p>
